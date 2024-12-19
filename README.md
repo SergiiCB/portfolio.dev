@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Mi Porfolio
+# 👨🏻‍💻 My personal Portfolio
 
 ![image](https://github.com/user-attachments/assets/0eacb624-2f37-4077-a195-d02a8caa329d)
 
