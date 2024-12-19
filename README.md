@@ -1,11 +1,7 @@
 # 👨🏻‍💻 Mi Porfolio
 
-<div align="center">
-<a href="https://porfolio.dev/">
-![image](https://github.com/user-attachments/assets/613ccff9-c5ce-4063-bb9c-99b85fde3731)
-</a>
-<p></p>
-</div>
+![image](https://github.com/user-attachments/assets/0eacb624-2f37-4077-a195-d02a8caa329d)
+
 
 <div align="center">
 
