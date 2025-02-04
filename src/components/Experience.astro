@@ -1,0 +1,30 @@
+---
+import ExperienceItem from "./ExperienceItem.astro"
+
+const EXPERIENCE = [
+    {
+        date: "Septiembre 2021 - Actualidad",
+        title: "Estudiante",
+        company: "UOC (Universitat Oberta de Catalunya)",
+        description: "Formación en análisis de datos y programación. Desarrollo de proyectos de procesamiento, visualización de datos y aprendizaje automático, entre otros.", 
+        link: "https://www.udemy.com/certificate/UC-0abb06d1-c89e-4574-a64f-c7f6a261c9d3/",
+        link2: "https://www.udemy.com/certificate/UC-23c045f2-edae-4395-a391-466fec29cc65/"
+    },
+    {
+        date: "Marzo 2021 - Septiembre 2023",
+        title: "Mecánico Citroën",
+        company: "AUTOMOBILS CALAFELL SL",
+        description: "Recepción, trato y asesoramiento a clientes, hojas de trabajo, mantenimiento y reparación de vehículos.",
+    },
+]
+---
+
+<ol class="relative mt-16">
+    {
+      EXPERIENCE.map((experience) => (
+        <li class="">
+          <ExperienceItem {...experience} />
+        </li>
+      ))
+    }
+  </ol>
